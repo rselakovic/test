@@ -1,0 +1,4 @@
+Version control (or revision control) is a system that records changes to a file or a
+group of files and directories over time, so that you can review or go back to specific
+versions later. Over the course of this book, I’ll demonstrate how this works; but
+first, let’s examine in more detail what version control is.

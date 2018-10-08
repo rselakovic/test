@@ -1,0 +1,9 @@
+Quite literally, version control means maintaining versions of your work—perhaps
+most commonly in the form of source code, though it can be used for other kinds
+of work too. You may like to think of version control as a tool that takes snapshots
+of your work across time, creating checkpoints. You can return to those checkpoints
+any time you want. Not only are the changes recorded in these checkpoints, but
+2 Jump Start Gitalso information about who made the changes, when they made them, and the
+reasons behind the changes.
+
+Proba brisanja fajla i splitovanje istog u vise
