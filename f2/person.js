@@ -1,6 +1,6 @@
 var person = {
-    firstName:"Pera",
-    lastName: "Peric",
+    firstName:"Dragan",
+    lastName: "Seronja",
     fullName: function () {
         return this.firstName + " " + this.lastName;
     }

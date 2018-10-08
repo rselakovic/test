@@ -2,6 +2,26 @@ Centralized systems have a copy of the project hosted on a centralized server, t
 which everyone connects to in order to make changes. Here, the “first come, first
 served” principle is adopted: if you’re the first to submit a change to a file, your
 code will be accepted.
+
+Kotež je urbano gradsko naselje u Beogradu smešteno na levoj obali Dunava. Kotež je udaljen 
+od Trga republike svega 7 km, i spada u prvu zonu grada Beograda. Za razliku od Krnjace, u 
+naselju postoji uredjena kanalizacija, naselje je gradjeno sa urbanistickim planom, u naselju 
+je posadjen veliki broj stabala, i spada u jedno od najzelenijih naselja Beograda. Naselje 
+broji preko 10 000 stanovnika, a prema nezvanicnim podacima (ukljucujuci i ,,divlja naselja) 
+Kotez ima preko 20 000 stanovnika.
+
+Naselje Kotež osnovano je 1968. godine. U početku je to bila radnička naseobina zaposlenih u 
+"Mostogradnji", MUP- u i u " Radu". Danas, to naselje je jedno od dve urbane sredine na levoj 
+obali Dunava, druga je Borča.
+
+Nalazi se na severnoj obali kanala Kalovita i sa zapadne strane zrenjaninskog puta. Pripada 
+opštini Palilula (takozvanom banatskom delu Palilule). Do 1971. godine Kotež je pripadao Krnjači (
+koja tada gubi status zasebnog naselja i postaje deo Beograda). Izgrađen je u obliku osmougla, 
+ali se od 1980. godine širi (uglavnom ka zapadu i jugu)zbog ilegalne gradnje, i gubi originalni,
+ pravilni geometrijski oblik
+
+
+
 In a distributed system, every developer has a copy of the entire project. Developers
 can make changes to their copy of the project without connecting to any centralized
 server, and without affecting the copies of other developers. Later, the changes can
