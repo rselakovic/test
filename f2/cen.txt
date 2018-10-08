@@ -1,7 +1,7 @@
 Centralized systems have a copy of the project hosted on a centralized server, to
 which everyone connects to in order to make changes. Here, the “first come, first
 served” principle is adopted: if you’re the first to submit a change to a file, your
-code will be accepted.
+hahhahahahahhaahhahahah
 In a distributed system, every developer has a copy of the entire project. Developers
 can make changes to their copy of the project without connecting to any centralized
 server, and without affecting the copies of other developers. Later, the changes can
