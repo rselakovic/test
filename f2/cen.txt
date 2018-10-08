@@ -1,7 +1,7 @@
 Centralized systems have a copy of the project hosted on a centralized server, to
 which everyone connects to in order to make changes. Here, the “first come, first
 served” principle is adopted: if you’re the first to submit a change to a file, your
-code will be accepted.
+hahhahahahahhaahhahahah
 
 Kotež je urbano gradsko naselje u Beogradu smešteno na levoj obali Dunava. Kotež je udaljen 
 od Trga republike svega 7 km, i spada u prvu zonu grada Beograda. Za razliku od Krnjace, u 
